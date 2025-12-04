@@ -1,4 +1,4 @@
-# Book-Management-System
+
 # Book Management System (OOP + GUI + JUnit Project)
 
 ## Overview
